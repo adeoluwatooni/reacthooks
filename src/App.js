@@ -10,25 +10,25 @@ function App() {
   // creating a default movie list 
   const [movies, setMovies] = useState([
     {
-      title: `Peter Obi , Nigeria's incoming president.`,
+      title: `Peter Obi.`,
       description: `The Labour Party's presidential candidate`,
       imgSrc : 'https://dailytrust.com/wp-content/uploads/2022/10/Peter-Obi.jpg',
       rating: 7.5
     },
     {
-      title: `Bola Tinubu , Nigeria's drug lord president.`,
+      title: `Bola Tinubu.`,
       description: `The APC presidential candidate`,
       imgSrc: 'https://www.channelstv.com/wp-content/uploads/2023/02/All-Progressive-Congress-APC-leader-Bola-Tinubu-2nd-L-and-President-of-Nigeria-Muhammadu-Buhari-C-arrives-at-the-APC-party-campaign-rally-at-Teslim-Balogun-Stadium-in-Lagos-2.jpg',
       rating: 4.0
     },
     {
-      title: `Atiku Abubakar , Nigeria's drug lord president.`,
+      title: `Atiku Abubakar.`,
       description: `The PDP Dubai presidential candidate`,
       imgSrc: 'https://businessday.ng/wp-content/uploads/2022/10/PDP-presidential-campaign-1.png',
       rating: 5.5
     },
     {
-      title: `INEC ,Nigeria's corrupt electoral body.`,
+      title: `INEC ,Nigeria's electoral body.`,
       description: `The electoral referee who answers to the highest bidder`,
       imgSrc: 'https://cdn.vanguardngr.com/wp-content/uploads/2022/04/INEC.jpg',
       rating: 5.0
